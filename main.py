@@ -108,14 +108,3 @@ if __name__ == '__main__':
     
     pygame.quit()
     pygame.freetype.quit()
-
-
-## TODO
-"""
-- other pieces' movements
-- - Macrophage
-- - Natural Killer
-- undo move
-- Add captured pieces display
-- Add game status (check/checkmate)
-"""
